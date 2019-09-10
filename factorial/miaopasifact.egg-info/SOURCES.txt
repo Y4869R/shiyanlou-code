@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+miaopasifact.egg-info/PKG-INFO
+miaopasifact.egg-info/SOURCES.txt
+miaopasifact.egg-info/dependency_links.txt
+miaopasifact.egg-info/top_level.txt
+myfact/__init__.py
+myfact/fact.py
